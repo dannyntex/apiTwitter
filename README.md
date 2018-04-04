@@ -9,10 +9,15 @@ https://www.getpostman.com/collections/c15fc80285ed91d5d391
 ### Rutas
 
 **/api/tweets** Muestra todos los tweets
+
 **/api/tweets/:id** Muestra los tweets según su id
+
 **/api/eliminartweets/:id** Elimina un tweet según su id
+
 **/api/marcarfavorito/:id** Marca un tweet como favorito
+
 **/api/verfavorito** Muestra los favoritos
+
 **/api/newtweet** Añade un nuevo tweet
 
 
